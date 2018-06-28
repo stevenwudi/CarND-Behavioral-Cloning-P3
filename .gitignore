@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/data
+/data_new
+/linux_sim
+
+/models
+/video
+
+!/models/model_aug_left_right_cropping.h5
